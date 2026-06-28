@@ -1,5 +1,5 @@
 name: PYTHON CI
-on: [push,pull-request]
+on: [push,pull-requests]
 jobs:
   test:
     runs-on: ubuntu-latest
